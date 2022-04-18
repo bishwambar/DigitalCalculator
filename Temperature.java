@@ -1,10 +1,6 @@
 package oopproject1;
 import javax.swing.JOptionPane;
 
-/*
-    @Owner: Md. Shazadur Rahman
-    Id. No: 1932020013
-*/
 
 public class Temperature {
     {
