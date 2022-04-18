@@ -1,4 +1,6 @@
 package oopproject1;
+/*Name: Bishwambar ccharobarty
+Email: bishwambarc@gmail.comm */
 import javax.swing.JOptionPane;
 public class BMI {
     {
